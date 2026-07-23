@@ -1,25 +1,27 @@
-# *NAMA PROJECT*
+# Name Project 
 • Portofolio Abu
 
-# *FITUR*
-•
-•
+# Features
+• Home/Hero Section 
+• Skills
+• Project 
+• Stats
+• Contact 
+• Miniature Pesan ( Frontend )
 
-# *SCREENSHOT*
+# Preview 
 
-# *STRUCTURE*
 
-# *DIBUAT DENGAN*
+# Made With 
 • HTML
 • JAVASCRIPT 
 • CSS
 
 
-*[ ★ THANKS TO ★ ]*
-
-# [ 箱 ALLAH SWT ] ( Big Support And My God )
-# [ 箱 ABU DAUD ] ( Pembuat/Developer )
-# [ 箱 ORANG TUA ] ( Support )
-# [ 箱 DINARA S.R ] ( Motivasi )
-# [ 箱 AI ] ( Assistant )
-# [ 箱 MY FRIENDS ] ( Assistant )
+# ★ THANKS TO ★ 
+箱 ALLAH SWT  ( Big Support And My God )
+箱 ABU DAUD  ( Pembuat/Developer )
+箱 ORANG TUA  ( Support )
+箱 DINARA S.R  ( Motivasi )
+箱 AI  ( Assistant )
+箱 MY FRIENDS  ( Assistant )
